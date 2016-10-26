@@ -10,7 +10,7 @@ int main()
 		sum += a;
 	}
 	avg = (float)sum/n;
-	printf("sum = %d\n", sum);
-	printf("avg = %.2f", avg); 
+	printf("Sum: %d\n", sum);
+	printf("Avg: %.2f", avg); 
 	return 0;
 }
